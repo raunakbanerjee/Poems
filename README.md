@@ -1,2 +1,3 @@
-# Poems
-fd gdfg dfg fd gdf g
+# Raunak's Javascript Quiz
+Created my first quiz app!
+Used a bootstrap template 
